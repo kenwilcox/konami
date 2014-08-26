@@ -1,0 +1,4 @@
+konami
+======
+
+Konami Code
