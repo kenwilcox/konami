@@ -27,8 +27,8 @@ var konamiCode = function(event) {
   }
   
   if (konamiCheck(konami) === true) {
-    alert("You are a Big Nerd!");
-    window.open('http://www.bignerdranch.com','_blank');
+    alert("Going to Code Works!");
+    window.open('http://portal.boisecodeworks.com/','_blank');
     konami = [];
   }
 };
